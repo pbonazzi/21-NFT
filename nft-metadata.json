@@ -1,0 +1,15 @@
+{
+  "attributes": [
+    {
+      "img_type": "Format",
+      "value": "jpg"
+    },
+    {
+      "img_type": "Color",
+      "value": "Blue"
+    }
+  ],
+  "description": "The sky.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmbMaDeNrYY3wY1tdc4UVuhC3j8FZxpxX8CVdU8japG337",
+  "name": "Luke"
+}

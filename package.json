@@ -1,0 +1,21 @@
+{
+  "name": "my-nft",
+  "version": "1.0.0",
+  "description": "My first NFT",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Pietro",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.2",
+    "ethers": "^5.4.7",
+    "hardhat": "^2.6.4"
+  },
+  "dependencies": {
+    "@alch/alchemy-web3": "^1.1.4",
+    "@openzeppelin/contracts": "^4.3.2",
+    "dotenv": "^10.0.0"
+  }
+}
